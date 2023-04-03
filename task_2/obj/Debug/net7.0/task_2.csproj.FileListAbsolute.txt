@@ -1,0 +1,15 @@
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/bin/Debug/net7.0/task_2
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/bin/Debug/net7.0/task_2.deps.json
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/bin/Debug/net7.0/task_2.runtimeconfig.json
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/bin/Debug/net7.0/task_2.dll
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/bin/Debug/net7.0/task_2.pdb
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.csproj.AssemblyReference.cache
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.AssemblyInfoInputs.cache
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.AssemblyInfo.cs
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.csproj.CoreCompileInputs.cache
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.dll
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/refint/task_2.dll
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.pdb
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/task_2.genruntimeconfig.cache
+/Users/andriyk/RiderProjects/OOP_lab_cs_2/task_2/obj/Debug/net7.0/ref/task_2.dll
